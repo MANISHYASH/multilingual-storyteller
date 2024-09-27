@@ -17,8 +17,6 @@ This Streamlit application allows users to translate Tamil text into English and
 - **Hugging Face Transformers**: Pre-trained models for translation and text generation.
 - **PIL (Pillow)**: Library for image processing.
 
-## Set your Hugging Face tokens as environment variables:
-
 To generate a token from Hugging Face, follow these steps:
 ----------------------------------------------------------
 
