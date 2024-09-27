@@ -1,7 +1,7 @@
 # multilingual-storyteller
 
 ## App link : 
-Y4SH/multilingual-storyteller
+[Y4SH/multilingual-storyteller](https://huggingface.co/spaces/Y4SH/multilingual-storyteller)
 
 ## Description
 This Streamlit application allows users to translate Tamil text into English and generate creative stories based on the translated text. The application utilizes Hugging Face models for translation and story generation, providing an interactive and user-friendly interface.
