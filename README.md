@@ -1,5 +1,7 @@
 # multilingual-storyteller
 
+## App link : Y4SH/multilingual-storyteller
+
 ## Description
 This Streamlit application allows users to translate Tamil text into English and generate creative stories based on the translated text. The application utilizes Hugging Face models for translation and story generation, providing an interactive and user-friendly interface.
 
@@ -16,8 +18,33 @@ This Streamlit application allows users to translate Tamil text into English and
 
 ## Set your Hugging Face tokens as environment variables:
 
-export HUGGINGFACE_TOKEN="your_huggingface_token"
-export GROQ_TOKEN="your_groq_token"
+To generate a token from Hugging Face, follow these steps:
+----------------------------------------------------------
+
+- Go to the Hugging Face website.
+- Create a new account by clicking "Sign Up" or log in if you already have an account.
+- Click on your profile picture in the top right corner.
+- Select "Settings" from the dropdown menu.
+- Find the "Access Tokens" tab on the left side.
+- Click the "New token" button.
+- Give your token a name and select the desired scopes (permissions).
+- Click "Generate."
+- Copy the token immediately, as you won’t be able to see it again after navigating away from the page.
+- Store your token securely, as it provides access to your Hugging Face account.
+
+To generate an API key from Groq, follow these steps:
+-----------------------------------------------------
+
+- Visit the Groq website.
+- Create an account or log in if you already have one.
+- Once logged in, navigate to the "Dashboard" or "API Keys" section.
+- Look for an option to create a new API key.
+- Click on "Create API Key" or similar.
+- Optionally, provide a name or description for the API key.
+- Click "Generate" or "Create" to generate the key.
+- Copy the API key immediately, as it may not be displayed again.
+- Store the API key securely, as it is essential for authenticating your requests to the Groq API.
+
 
 ## Run the Streamlit application:
 
